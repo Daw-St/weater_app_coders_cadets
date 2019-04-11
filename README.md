@@ -11,3 +11,4 @@ Ewa Korościk - https://github.com/everstar-dev/EWeAther - link do repo
 
 
 Rafał Klimczak - https://github.com/Rafik89PL/CodersCamp_weather_app/tree/master/Rafal_Klimczak_weather_app
+                 Live: https://codepen.io/Rafik89PL/pen/dLRobj
